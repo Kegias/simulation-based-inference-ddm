@@ -1,0 +1,4 @@
+parameter,true_value,posterior_mean,posterior_std
+drift_rate,1.2,1.1999828,0.07736119
+boundary,1.0,0.98939943,0.047370188
+non_decision_time,0.25,0.24166311,0.022588778
